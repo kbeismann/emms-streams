@@ -11,7 +11,7 @@ Currently a file with my EMMS streams.
 $ sudo pacman -S mpv
 ```
 
-2. Setup EMMS for Emacs with `emms-streams` like:
+2. Setup EMMS for Emacs with `emms-streams` by loading `emms` in your `init.el` like:
 ``` lisp
 (leaf emms
 
