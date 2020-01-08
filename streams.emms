@@ -1,4 +1,5 @@
 ;;; This is an EMMS playlist file
 
-((*track* (type . streamlist) (name . "https://www.wqxr.org/stream/q2/mp3.pls") (metadata "WQXR" "https://www.wqxr.org/stream/q2/mp3.pls" 1 streamlist))
-(*track* (type . streamlist) (name . "http://www.wqxr.org/stream/wqxr-special/mp3.pls") (metadata "WQXR: Operavore" "https://www.wqxr.org/stream/wqxr-special/mp3.pls" 1 streamlist)))
+((*track* (type . streamlist) (name . "https://www.wqxr.org/stream/wqxr/mp3.pls") (metadata "WQXR" "https://www.wqxr.org/stream/wqxr/mp3.pls" 1 streamlist))
+(*track* (type . streamlist) (name . "http://www.wqxr.org/stream/wqxr-special/mp3.pls") (metadata "WQXR: Operavore" "https://www.wqxr.org/stream/wqxr-special/mp3.pls" 1 streamlist))
+(*track* (type . streamlist) (name . "https://www.wqxr.org/stream/q2/mp3.pls") (metadata "WQXR: New Sounds" "https://www.wqxr.org/stream/q2/mp3.pls" 1 streamlist)))
